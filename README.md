@@ -22,7 +22,7 @@ Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-weight: 400; 
   I also operate as a freelancer,<br>
   creating high-quality software and web applications tailored to my clients’ unique needs.<br><br>
   
-  <em style="color: #6e6e73; font-weight: 500; font-style: normal; letter-spacing: 0.03em;">My stack includes:</em> HTML, CSS, SCSS, JavaScript, Typescript, React, PHP, MySQL, phpMyAdmin, Angular, Git, and GitHub.<br><br>
+  <em style="color: #6e6e73; font-weight: 500; font-style: normal; letter-spacing: 0.03em;">My stack:</em> HTML, CSS, SCSS, JavaScript, Typescript, React, PHP, MySQL, phpMyAdmin, Angular, Git, and GitHub.<br><br>
   
 </p>
 
